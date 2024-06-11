@@ -7,7 +7,7 @@ Full Stack Developer
 💻 With a foundation in front-end technologies like HTML, CSS, JavaScript and React and a growing proficiency in back-end frameworks such as MongoDB, Express,, and Node. js, I'm excited to dive deeper into the world of full-stack development.
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [MyPortofolio](http://ztm.com)
+* 🖥️  See my portfolio at [MyPortofolio](https://portofolio-ruby-tau.vercel.app/)
 * ✉️  You can contact me at [rusu.emanuel.webdeveloper@gmail.com](mailto:rusu.emanuel.webdeveloper@gmail.com)
 * 🚀  I'm currently working on [Recipe App](http://recipe.com)
 * 🧠  I'm learning Angular
