@@ -9,7 +9,6 @@ Full Stack Developer
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [MyPortofolio](https://portofolio-ruby-tau.vercel.app/)
 * ✉️  You can contact me at [rusu.emanuel.webdeveloper@gmail.com](mailto:rusu.emanuel.webdeveloper@gmail.com)
-* 🚀  I'm currently working on [Recipe App](http://recipe.com)
 * 🧠  I'm learning SQL , PostGresSQL
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Always ready to turn bugs into features and errors into opportunities for growth.
